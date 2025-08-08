@@ -44,6 +44,7 @@ VBoxManage setextradata "VM Name" "VBoxInternal/TM/TSCMode" "RealTSCOffset"
 
 
 **Intel Processors**
+
 cd "C:\Program Files\Oracle\VirtualBox\"
 
 VBoxManage.exe modifyvm "VM Name" --cpuidset 00000001 000106e5 00100800 0098e3fd bfebfbff
@@ -60,4 +61,6 @@ VBoxManage setextradata "VM Name" "VBoxInternal/Devices/smc/0/Config/GetKeyFromR
 
 VBoxManage setextradata "VM Name" "VBoxInternal/TM/TSCMode" "RealTSCOffset"
 
-## rename the "VM Name" to your vmbox's name
+**rename the "VM Name" to your vmbox's name**
+
+## I will be making a a video tutorial soon..
