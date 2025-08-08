@@ -9,3 +9,4 @@ disable core isolation and disable hyper-v with this command bcdedit /set hyperv
 Please restart your computer,
 
 Now you need to open the Vm, click on the new button
+<img src="" alt="auto">
