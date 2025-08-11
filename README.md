@@ -2,7 +2,7 @@
 
 ## Disclaimer, if you see any command to run close the vm and run the cmd as admin EVERYTIME
 
-I will be adding pictures once i get my computer
+**I will be adding pictures once i get my computer**
 
 This repository is for MacOS Vm help Like iso files ect.
 
