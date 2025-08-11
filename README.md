@@ -6,7 +6,7 @@
 
 This repository is for MacOS Vm help Like iso files ect.
 
-First you need to install [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads) and the preffered iso file.
+First you need to install [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads) and the preffered iso file from either [this link](https://archive.org/details/macos_iso) or [this link](.   
 
 Then if you have installed it dont open anything but in the settings 
 disable core isolation and disable hyper-v with this command bcdedit /set hypervisorlaunchtype off
