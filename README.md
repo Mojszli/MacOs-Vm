@@ -1,7 +1,6 @@
 # MacOs-Vm
 
-## Disclaimer, if you see any command to run close the vm 
-and run the cmd as admin EVERYTIME
+## Disclaimer, if you see any command to run close the vm and run the cmd as admin EVERYTIME
 
 I will be adding pictures once i get my computer
 
