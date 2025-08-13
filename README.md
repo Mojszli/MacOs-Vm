@@ -1,15 +1,13 @@
-# MacOs-Vm
-
-## Disclaimer, if you see any command to run close the vm and run the cmd as admin EVERYTIME
-
-**I will be adding pictures once i get my computer**
+# Disclaimer, if you see any command to run close the vm and run the cmd as admin EVERYTIME  
+### And if you can undestard the process that I'm saying [this link](https://www.youtube.com/watch?v=UkdBarxP4nw) will help you out ;p
 
 This repository is for MacOS Vm help Like iso files ect.
 
-First you need to install [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads) and the preffered iso file from either [this link](https://archive.org/details/macos_iso) or [this link](https://archive.org/details/macOS-X-images) 
+First you need to install [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads) and the  
+preffered iso file from either [this link](https://archive.org/details/macos_iso) or [this link](https://archive.org/details/macOS-X-images) 
 
-Then if you have installed it dont open anything but in the settings 
-disable core isolation and disable hyper-v with this command bcdedit <ins>/set hypervisorlaunchtype off</ins>
+Then if you have installed it dont open anything, but in the settings  
+<ins>disable core isolation</ins> and <ins>disable hyper-v with this command bcdedit</ins> <ins>/set hypervisorlaunchtype off</ins>  
 Please restart your computer,
 
 Now you need to open the Vm, click on the new button
@@ -27,8 +25,10 @@ Give half of your ram to it and half of your cores to it,
 turn off the floppy disk boot option.  
 <img src="https://github.com/Mojszli/MacOs-Vm/blob/main/images/BootOption.png" alt="auto">
 
-Save it and close it.  
-Run these commands:
+**If you encounter any problems contact me on dc: <ins>Mojszli</ins>**
+
+Save it and close it and  
+run these commands:
 
 **AMD Processors**
 
@@ -74,5 +74,10 @@ VBoxManage setextradata "VM Name" "VBoxInternal/TM/TSCMode" "RealTSCOffset"
 
 <ins>rename the "VM Name" to your vmbox's name</ins>
 
+> Start the Vmbox  
+> Start the Apple Virtual machine  
+If your Pc freezes it will either run normal after 30 seconds or force restart your computer  
+After that it will be normal  
+> Complete the installation
 
 ## I will be making a a video tutorial soon..
